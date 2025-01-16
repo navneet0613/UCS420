@@ -1,2 +1,2 @@
-# UCS712
+# UCS420
 Cognitive Computing
